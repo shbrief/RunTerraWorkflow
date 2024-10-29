@@ -116,8 +116,7 @@
     
     ## Get all the available workflow
     res <- avworkflows(namespace = unlist(strsplit(ws_fullname,split = "/"))[1],
-                       name = unlist(strsplit(ws_fullname,split = "/"))[2],
-                       platform = "gcp")
+                       name = unlist(strsplit(ws_fullname,split = "/"))[2])
     
     ## Select a workflow
     if (nrow(res) == 0) {
