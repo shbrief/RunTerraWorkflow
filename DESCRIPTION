@@ -1,6 +1,6 @@
 Package: AnVILWorkflow
 Title: Run workflows implemented in Terra/AnVIL workspace
-Version: 1.5.7
+Version: 1.7.1
 Date: 2024-10-29
 Authors@R: 
     c(person(given = "Sehyun",
