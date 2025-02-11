@@ -1,0 +1,21 @@
+citHeader("To cite AnVILWorkflow in publications, use:")
+
+bibentry(
+  bibtype  = "Article",
+  title    = "AnVILWorkflow: A runnable workflow package for Cloud-implemented bioinformatics analysis pipelines",
+  author   = c(
+        person("Sehyun", "Oh"),
+        person("Kai", "Gravel-Pucillo"),
+        person("Marcel", "Ramos"),
+        person("Michael", "Schatz"),
+        person("Sean", "Davis"),
+        person("Vincent", "Carey"),
+        person("Martin", "Morgan"),
+        person("Levi", "Waldron")
+  ),
+  journal  = "F1000Research",
+  year     = "2024",
+  pages    = "13:1257"
+  doi      = "10.12688/f1000research.155449.1"
+  url      = "https://f1000research.com/articles/13-1257"
+)

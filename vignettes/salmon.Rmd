@@ -40,6 +40,10 @@ establishing these accounts.
 [Terra]: https://anvil.terra.bio/
 [AnVIL training guides]: https://anvilproject.org/learn
 
+## Citing *AnVILWorkflow*
+Your citations are crucial in keeping our software free and open source. To
+cite our package, please use this publication at the link [here][1].
+[1]: https://f1000research.com/articles/13-1257
 
 
 ## Install and load package
